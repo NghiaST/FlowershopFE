@@ -1,0 +1,8 @@
+Our group divided the backend and frontend tasks among members, with each person assigned to only one side. Everyone agreed to this arrangement.
+
+GitHub repo link:
++ Backend: https://github.com/taokobik1234/FlowerShop
++ Frontend: https://github.com/nghednh/FlowershopFE
+
+Video link:
+https://youtu.be/htm-QAPYYNk?si=GX_uTGxLQUoko2Ej
